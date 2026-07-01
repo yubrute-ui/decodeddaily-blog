@@ -5,3 +5,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
 show_excerpts: true
+
+header_pages:
+  - about.md
+  - privacy.md
