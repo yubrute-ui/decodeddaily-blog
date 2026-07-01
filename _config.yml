@@ -1,0 +1,7 @@
+title: DecodedDaily
+description: The psychology behind everyday decisions — cognitive biases, decoded daily.
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+show_excerpts: true
