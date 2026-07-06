@@ -1,5 +1,7 @@
 title: DecodedDaily
 description: The psychology behind everyday decisions — cognitive biases, decoded daily.
+url: "https://yubrute-ui.github.io"
+baseurl: "/decodeddaily-blog"
 theme: minima
 plugins:
   - jekyll-seo-tag
